@@ -1,4 +1,4 @@
-This tool allows you to use flexible camera, shown on picture below over WiFi. Supports only direct connection. Writed in Delphi 7.
+This tool allows you to use flexible camera BZ-W11Q (see picture below) over WiFi. Supports only direct connection. Writed in Delphi 7.
 <h2>System Requirements</h2>
 <table>
 <tr><td>Operating system<td>Windows 7 or newer
